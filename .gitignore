@@ -1,0 +1,9 @@
+*.bkp
+*.bak
+*.code-workspace
+*.stl
+*.gcode
+_internal/
+_internal/*
+_download/
+_download/*
