@@ -4,9 +4,11 @@
 __Status: Proof of concept, first build__
 
 - Custom CoreXY 235x235x250 with inverted belt path
-- Rigid 2020 frame, blind joints
+- Rigid frame, 2020 b-type nut6 extrusions, blind joints
 - Shoulder Screws as Idler rods
 - Independent triple Z
 
-<img style="padding: 0 2em 2em 2em; max-width:75%" src="docs/doozer-corexy.png" />
+<img style="padding: 0 2em 2em 2em; max-width:75%" src="docs/Doozer-CoreXY.png" />
+
+<img style="padding: 0 2em 2em 2em; max-width:75%" src="docs/extended_corexy.png" />
 
