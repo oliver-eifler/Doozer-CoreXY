@@ -11,5 +11,9 @@ __Status: Proof of concept, first build__
 
 <img style="padding: 0 2em 2em 2em; max-width:75%" src="docs/Doozer-CoreXY.png" />
 
+- Belts: length ~1700mm
+
+<img style="padding: 0 2em 2em 2em; max-width:75%" src="docs/Doozer-CoreXY-belts.png" />
+
 <img style="padding: 0 2em 2em 2em; max-width:75%" src="docs/extended_corexy.png" />
 
