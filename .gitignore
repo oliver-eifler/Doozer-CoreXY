@@ -3,6 +3,7 @@
 *.code-workspace
 *.stl
 *.gcode
+stl/
 _internal/
 _internal/*
 _download/
