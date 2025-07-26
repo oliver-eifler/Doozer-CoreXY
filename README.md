@@ -15,5 +15,9 @@ __Status: Proof of concept, first build__
 
 <img style="padding: 0 2em 2em 2em; max-width:75%" src="docs/Doozer-CoreXY-belts.png" />
 
+- Initial build
+
+<img style="padding: 0 2em 2em 2em; max-width:75%" src="docs/doozer-build-0001.png" />
+
 <img style="padding: 0 2em 2em 2em; max-width:75%" src="docs/extended_corexy.png" />
 
