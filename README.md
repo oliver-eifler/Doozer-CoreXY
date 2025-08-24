@@ -17,7 +17,8 @@ __Status: Proof of concept, first build__
 
 - Initial build
 
-<img style="padding: 0 2em 2em 2em; max-width:75%" src="docs/doozer-build-0001.png" />
+<img style="padding: 0 2em 2em 2em; max-width:75%" src="docs/doozer-build-0001.jpg" />
 
-<img style="padding: 0 2em 2em 2em; max-width:75%" src="docs/extended_corexy.png" />
+<img style="padding: 0 2em 2em 2em; max-width:75%" src="docs/doozer-build-0002.jpg" />
+
 
