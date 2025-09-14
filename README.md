@@ -8,12 +8,19 @@ __Status: Proof of concept, first build__
 - POWGE idlers & pulleys
 - Shoulder Screws as Idler rods
 - Independent triple Z
+- z motors with pillow blocks using F8-16M Thrust Ball Bearings and rigid couplers
 
 <img style="padding: 0 2em 2em 2em; max-width:75%" src="docs/Doozer-CoreXY.png" />
+
+- Pillow Block with F8-16M Thrust Ball Bearing
+
+<img style="padding: 0 2em 2em 2em; max-width:75%" src="docs/pillow-block.png" />
 
 - Belts: length ~1700mm
 
 <img style="padding: 0 2em 2em 2em; max-width:75%" src="docs/Doozer-CoreXY-belts.png" />
+
+
 
 - Initial build
 
