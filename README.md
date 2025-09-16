@@ -1,4 +1,4 @@
-# Olli-Doozer
+# Olli-Doozer - The angry gnu
 ## A (extended/hybrid-idex) CoreXY Printer <img align="right" style="padding: 0 2em 2em 2em" width=128 src="docs/olli-logo.svg" />
 
 __Status: Proof of concept, first build__
