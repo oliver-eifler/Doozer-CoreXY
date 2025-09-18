@@ -9,6 +9,7 @@ __Status: Proof of concept, first build__
 - Shoulder Screws as Idler rods
 - Independent triple Z
 - z motors with pillow blocks using F8-16M Thrust Ball Bearings and rigid couplers
+- Creality K1 heatbed (for now)
 
 <img style="padding: 0 2em 2em 2em; max-width:75%" src="docs/Doozer-CoreXY.png" />
 
