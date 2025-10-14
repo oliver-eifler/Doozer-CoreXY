@@ -29,4 +29,6 @@ __Status: Proof of concept, first build__
 
 <img style="padding: 0 2em 2em 2em; max-width:75%" src="docs/doozer-build-0002.jpg" />
 
+<img style="padding: 0 2em 2em 2em; max-width:75%" src="docs/doozer-build-0003.jpg" />
+
 
