@@ -10,6 +10,7 @@ __Status: Proof of concept, first build__
 - Independent triple Z, T8x4 leads crews with Oldham Couplers for lead screw nuts
 - z motors with pillow blocks using F8-16M Thrust Ball Bearings and rigid couplers
 - Creality K1 heatbed (for now)
+- Toolhead: BIQU H2-V2s, Cartographer 
 
 <img style="padding: 0 2em 2em 2em; max-width:75%" src="docs/Doozer-CoreXY.png" />
 
