@@ -9,3 +9,4 @@ _internal/*
 _download/
 _download/*
 cad/Doozer-test.rsdocx
+*.scad
